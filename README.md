@@ -18,6 +18,6 @@
 I'm a software engineer 🚀 with 5 years of experience in a wide of industries 💻
 
 - Microservices
-- React arquitecture
-- Backend
-- Data base modeling
+- Frontend arquitecture (React focus)
+- Backend (Spring boot focus)
+- Data base modeling (SQL-based & MongoDB)
