@@ -1,4 +1,4 @@
-###### [Facebook](https://facebook.com/sanc7us) | [Twitter](https://twitter.com/im_loreno) | [LinkedIn](https://linkedin.com/in/soylorenzo)
+###### [LinkedIn](https://linkedin.com/in/soylorenzo) | [Website](https://imloreno.com) 
 
 <table align="right">
   <tr>
@@ -15,7 +15,7 @@
 *Software developer - full-stack*
 \
 \
-I'm a software engineer :school: and __self-taught__ :computer:
+I'm a software engineer 🚀 with 5 years of experience in a wide of industries 💻
 
 - Microservices
 - React arquitecture
