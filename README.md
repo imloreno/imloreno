@@ -12,12 +12,12 @@
 </table>
 
 ## 👋🏼 Hi, my name is [Lorenzo Arias](https://github.com/imloreno) 🔥
-*Software developer - frontend*
+*Software developer - full-stack*
 \
 \
-I'm university student :school: and __self-taught__ too :computer:
+I'm a software engineer :school: and __self-taught__ :computer:
 
-- Autodidact
-- Curious
-- Responsible
-- Nice guy
+- Microservices
+- React arquitecture
+- Backend
+- Data base modeling
