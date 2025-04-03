@@ -47,7 +47,11 @@ A React.js/TypeScript specialist with **5+ years** of turning **coffee** ☕ and
 - **Built an AI resume generator** that outsmarts HR bots 🤖 > 👩💼
 - **Created a GIS system** that maps data better than pirates map treasure 🗺️⚓
 
-### 🧪 **Latest Experiments**
+### 🧪 **Latest Experiments - Top 3 projects**
+
+- [🤖 Talentor AI 🔗](https://github.com/talentor-ai/navigator_extension)
+- [🌎 GIS Service 🔗](https://github.com/imloreno/webgis_layer_manager-frontend)
+- [📃 Google Form Bot 🔗](https://github.com/imloreno/google_form_filler)
 
 ```typescript
 const top3Projects = [
