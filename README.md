@@ -80,4 +80,4 @@ const top3Projects = [
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imloreno&show_icons=true&theme=radical&title_color=d69c15&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imloreno&theme=radical&layout=donut-vertical&title_color=d69c15&text_color=fff)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imloreno&theme=radical&layout=donut-vertical&title_color=d69c15&text_color=fff)
